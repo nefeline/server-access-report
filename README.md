@@ -1,12 +1,12 @@
 
 # Hillebrandt Server Access Report
 
-##      Version: 1.1
-##      Author: Patricia Hillebrandt
-##      Release date: 20-11-2016
-##      Latest version: 30-01-2017
-##      License: GNU General Public License v2 or later
-##      License URI: http://www.gnu.org/licenses/gpl-2.0.html
+      Version: 1.1
+      Author: Patricia Hillebrandt
+      Release date: 20-11-2016
+      Latest version: 30-01-2017
+      License: GNU General Public License V3
+      License URI: http://www.gnu.org/licenses/gpl.html
 
 ## 1- This script generates a report listing the number, Location and Organization of the IPs that are accessing:
 
