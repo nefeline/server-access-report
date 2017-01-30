@@ -10,9 +10,9 @@
 
 ## 1- This script generates a report listing the number, Location and Organization of the IPs that are accessing:
 
-          - General pages of the website (Top 20 IPs)
-          - The wp-login.php file (Top 10 IPs)
-          - The xmlrpc.php file (Top 10 IPs)
+- General pages of the website (Top 20 IPs)
+- The wp-login.php file (Top 10 IPs)
+- The xmlrpc.php file (Top 10 IPs)
 
 Also, it generates a report comparing the number of requests/accesses a given website had from all PHP and NGINX access logs in the server.
 
